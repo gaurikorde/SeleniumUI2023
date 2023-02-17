@@ -14,7 +14,7 @@ import java.util.List;
 public class brokenLink {
 
     public static void main(String[] args) {
-
+        //test for jenkins
         System.setProperty("webdriver.chrome.driver","C:/Users/Gauri K/Desktop/selenium_prj_stuff/chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
